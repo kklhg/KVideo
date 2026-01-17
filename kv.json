@@ -1,0 +1,392 @@
+{
+  "settings": {
+    "sources": [
+      {
+        "id": "豪华资源",
+        "name": "豪华资源",
+        "baseUrl": "https://hhzyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 1
+      },
+      {
+        "id": "快车资源",
+        "name": "快车资源",
+        "baseUrl": "https://caiji.kuaichezy.org/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 2
+      },
+      {
+        "id": "影视工厂",
+        "name": "影视工厂",
+        "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 3
+      },
+      {
+        "id": "鸭鸭资源",
+        "name": "鸭鸭资源",
+        "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 4
+      },
+      {
+        "id": "步步高资源",
+        "name": "步步高资源",
+        "baseUrl": "https://api.yparse.com/api/json",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 5
+      },
+      {
+        "id": "红牛资源",
+        "name": "红牛资源",
+        "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 6
+      },
+      {
+        "id": "牛牛点播",
+        "name": "牛牛点播",
+        "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 7
+      },
+      {
+        "id": "新浪点播",
+        "name": "新浪点播",
+        "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 8
+      },
+      {
+        "id": "光速资源",
+        "name": "光速资源",
+        "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 9
+      },
+      {
+        "id": "丫丫点播",
+        "name": "丫丫点播",
+        "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 10
+      },
+      {
+        "id": "U酷资源",
+        "name": "U酷资源",
+        "baseUrl": "https://api.ukuapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 11
+      },
+      {
+        "id": "CK资源",
+        "name": "CK资源",
+        "baseUrl": "https://ckzy.me/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 12
+      },
+      {
+        "id": "1080资源库",
+        "name": "1080资源库",
+        "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 13
+      },
+      {
+        "id": "飘零资源",
+        "name": "飘零资源",
+        "baseUrl": "https://p2100.net/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 14
+      },
+      {
+        "id": "閃電资源",
+        "name": "閃電资源",
+        "baseUrl": "https://sdzyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 15
+      },
+      {
+        "id": "金鹰资源",
+        "name": "金鹰资源",
+        "baseUrl": "https://jyzyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 16
+      },
+      {
+        "id": "虎牙资源",
+        "name": "虎牙资源",
+        "baseUrl": "https://www.huyaapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 17
+      },
+      {
+        "id": "索尼资源",
+        "name": "索尼资源",
+        "baseUrl": "https://suoniapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 18
+      },
+      {
+        "id": "速播资源",
+        "name": "速播资源",
+        "baseUrl": "https://subocaiji.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 19
+      },
+      {
+        "id": "卧龙资源2",
+        "name": "卧龙资源2",
+        "baseUrl": "https://collect.wolongzyw.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 20
+      },
+      {
+        "id": "茅台资源",
+        "name": "茅台资源",
+        "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 21
+      },
+      {
+        "id": "量子资源站",
+        "name": "量子资源站",
+        "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 22
+      },
+      {
+        "id": "iKun资源",
+        "name": "iKun资源",
+        "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 23
+      },
+      {
+        "id": "旺旺短剧",
+        "name": "旺旺短剧",
+        "baseUrl": "https://wwzy.tv/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 24
+      },
+      {
+        "id": "无尽资源",
+        "name": "无尽资源",
+        "baseUrl": "https://api.wujinapi.me/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 25
+      },
+      {
+        "id": "百度云资源",
+        "name": "百度云资源",
+        "baseUrl": "https://api.apibdzy.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 26
+      },
+      {
+        "id": "樱花资源",
+        "name": "樱花资源",
+        "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 27
+      },
+      {
+        "id": "最大资源",
+        "name": "最大资源",
+        "baseUrl": "https://api.zuidapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 28
+      },
+      {
+        "id": "魔都资源",
+        "name": "魔都资源",
+        "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 29
+      },
+      {
+        "id": "魔爪资源",
+        "name": "魔爪资源",
+        "baseUrl": "https://mozhuazy.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 30
+      },
+      {
+        "id": "豆瓣资源",
+        "name": "豆瓣资源",
+        "baseUrl": "https://dbzy.tv/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 31
+      },
+      {
+        "id": "卧龙资源",
+        "name": "卧龙资源",
+        "baseUrl": "https://wolongzyw.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 32
+      },
+      {
+        "id": "360资源",
+        "name": "360资源",
+        "baseUrl": "https://360zy.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 33
+      },
+      {
+        "id": "天涯资源",
+        "name": "天涯资源",
+        "baseUrl": "https://tyyszy.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 34
+      },
+      {
+        "id": "暴风资源",
+        "name": "暴风资源",
+        "baseUrl": "https://bfzyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 35
+      },
+      {
+        "id": "电影天堂资源",
+        "name": "电影天堂资源",
+        "baseUrl": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 36
+      },
+      {
+        "id": "如意资源",
+        "name": "如意资源",
+        "baseUrl": "http://cj.rycjapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 37
+      },
+      {
+        "id": "极速资源",
+        "name": "极速资源",
+        "baseUrl": "https://jszyapi.com/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": false,
+        "priority": 38
+      },
+      {
+        "id": "非凡影视",
+        "name": "非凡影视",
+        "baseUrl": "http://ffzy5.tv/api.php/provide/vod/",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 39
+      }
+    ],
+    "premiumSources": [],
+    "subscriptions": [],
+    "sortBy": "default",
+    "searchHistory": true,
+    "watchHistory": true,
+    "passwordAccess": false,
+    "accessPasswords": [],
+    "autoNextEpisode": true,
+    "autoSkipIntro": false,
+    "skipIntroSeconds": 0,
+    "autoSkipOutro": false,
+    "skipOutroSeconds": 0,
+    "showModeIndicator": false,
+    "realtimeLatency": false,
+    "searchDisplayMode": "normal",
+    "episodeReverseOrder": false
+  },
+  "searchHistory": {
+    "state": {
+      "searchHistory": [
+        {
+          "query": "剑来",
+          "timestamp": 1768532531694
+        },
+        {
+          "query": "剑来 第二季",
+          "timestamp": 1768532523249
+        },
+        {
+          "query": "盛夏假期遇见爱",
+          "timestamp": 1768532383441
+        }
+      ]
+    },
+    "version": 1
+  }
+}
